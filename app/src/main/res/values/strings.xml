@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Droid cafe</string>
+    <string name="donut">Пончик очень вкусный</string>
+    <string name="ice_cream">Вкуснейшее холодное мороженое</string>
+    <string name="froyo">Нежный фруктовый йогурт</string>
+    <string name="donut_order_string">Вы заказали пончик</string>
+    <string name="icecream_order_string">Вы заказали мороженое</string>
+    <string name="froyo_order_string">Вы заказали мороженое</string>
+    
+</resources>
